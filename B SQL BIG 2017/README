@@ -1,0 +1,6 @@
+Brief description: 
+
+Azure SQL – a traditional SQL database in the cloud, offered as a fully managed service. 
+In this session, we will overview Azure service management models, and jump-start our Azure SQL
+exposure with familiar tools (SSMS & PowerShell).
+Session will cover automation options, service tiers and a little about pricing.
