@@ -1,5 +1,7 @@
 # NoVa CodeCamp Fall 2017
 
+- Thank you for attending my session!
+
 - All the PowerShell files and slides are uploaded here
 
 This presentation is about Azure fundamentals and available automation options. 
