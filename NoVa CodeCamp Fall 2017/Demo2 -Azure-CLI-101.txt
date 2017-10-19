@@ -1,0 +1,40 @@
+Azure CLI 2.0 - Cross platform, also runs from Azure Portal
+
+---------------------------------------------------------------------------
+	az --version
+	az logout
+
+	
+	## SKIP -  az cloud set --name AzureUSGovernment
+	az cloud set --name AzureCloud
+		
+	## SKIP - az account set --subscription <name or id>		### Always Check & Set correct subscription
+ 
+ 	az cloud list
+	az cloud list --output table
+	
+	# Lists all availiable azure locations/regions
+	az account list-locations
+	az account list-locations --output table
+	
+	## SKIP - az webapp list
+	## SKIP - az vm list
+	
+	# Create a resource group 
+	az group create --name rgNova --location eastus
+	
+	# Get help
+	az storage account create --help
+	
+	az storage account create -n storagenova -g rgNova -l eastus --sku Standard_LRS
+	
+	az storage account list --output table	
+			
+----------------------------------------------------------------------
+# Install Azure storage explorer: Microsoft Azure storage explorer
+
+
+# Azure CLI Samples for Windows VMs:
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/cli-samples?toc=%2fcli%2fazure%2ftoc.json&bc=%2fcli%2fazure%2fbreadcrumb%2ftoc.json
+
+
