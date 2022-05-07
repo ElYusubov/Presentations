@@ -8,3 +8,12 @@ But, I have good news for you. Azure Bicep language is created to simplify manag
 
 In this demo heavy session, we will introduce new features and capabilities of Azure Bicep v0.5 & v0.6 language.
 I will demonstrate how it is simple to create, manage a modularized Azure infrastructure-as-code, while using familiar tools.
+
+---
+
+<h3>Links:</h3>
+
+- [Learn Bicep Repo](https://github.com/ElYusubov/Learn-Bicep)
+- [Bicep Registry Modules Repo](https://github.com/Azure/bicep-registry-modules)
+- [Azure Bicep First Look - video](https://www.linkedin.com/learning/azure-bicep-first-look/)
+- [AWESOME-Azure-Bicep Repo](https://github.com/ElYusubov/AWESOME-Azure-Bicep)
